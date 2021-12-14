@@ -7,6 +7,5 @@ public class CoreJavaTutorialsPoint {
         FreshJuice juice = new FreshJuice();
         juice.size = FreshJuice.FreshJuiceSize.MEDIUM ;
         System.out.println("Size: " + juice.size);
-
     }
 }
